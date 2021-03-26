@@ -12,7 +12,7 @@ El programa consiste en:
   - calcula los valores propios del observable y la probabilidad de que el sistema transite a alguno de los vectores propios después de la observación.
   - Se considera la dinámica del sistema. Ahora con una serie de matrices Un el sistema calcula el estado final a partir de un estado inicial.
   - Contiene ejercicios 4.3.1, 4.3.2, 4.4.1, 4.4.2 del libro.
-# ejercicio 4.5.2
+# ejercicio 4.5.3
 si trabajamos con el sistema de dos particulas no triviales, a cada una se le permiten solo dos puntos, nos dan el sistema 
 ![WhatsApp Image 2021-03-25 at 11 43 44 PM](https://user-images.githubusercontent.com/77986680/112581514-7c183600-8dc4-11eb-95b2-1ccccafa79f6.jpeg)
   Esto se puede escribir como  img1
