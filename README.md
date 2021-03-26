@@ -12,6 +12,15 @@ El programa consiste en:
   - calcula los valores propios del observable y la probabilidad de que el sistema transite a alguno de los vectores propios después de la observación.
   - Se considera la dinámica del sistema. Ahora con una serie de matrices Un el sistema calcula el estado final a partir de un estado inicial.
   - Contiene ejercicios 4.3.1, 4.3.2, 4.4.1, 4.4.2 del libro.
+# ejercicio 4.5.2
+Al tratarse de generalizar el estado de dos particulas con spin se representa de la siguiente forma:
+![WhatsApp Image 2021-03-26 at 12 04 32 AM](https://user-images.githubusercontent.com/77986680/112585597-1d54bb80-8dc8-11eb-9b06-f03fcd814fb1.jpeg)
+Para las dos particulas se da el caso de que quede la primera particula abajo y la segunda arriba o viceversa lo que se representa como 
+![WhatsApp Image 2021-03-26 at 12 06 06 AM](https://user-images.githubusercontent.com/77986680/112585632-31002200-8dc8-11eb-8bc1-19f0850ac4f8.jpeg)
+Al hacer el producto tensor entre los subsistemas nos dará de la siguiente forma contando con la rpbabilidad de que quede arriba o abajo 
+![WhatsApp Image 2021-03-26 at 12 06 44 AM](https://user-images.githubusercontent.com/77986680/112585647-365d6c80-8dc8-11eb-8683-6dced0d7cb8b.jpeg)
+Al generalizarla para n particulas 
+![WhatsApp Image 2021-03-26 at 12 09 07 AM](https://user-images.githubusercontent.com/77986680/112585653-39585d00-8dc8-11eb-9948-1ad9c6ea345b.jpeg)
 # ejercicio 4.5.3
 si trabajamos con el sistema de dos particulas no triviales, a cada una se le permiten solo dos puntos, nos dan el sistema 
 ![WhatsApp Image 2021-03-25 at 11 43 44 PM](https://user-images.githubusercontent.com/77986680/112581514-7c183600-8dc4-11eb-95b2-1ccccafa79f6.jpeg)
