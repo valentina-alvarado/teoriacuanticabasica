@@ -17,7 +17,7 @@ Al tratarse de generalizar el estado de dos particulas con spin se representa de
 ![WhatsApp Image 2021-03-26 at 12 04 32 AM](https://user-images.githubusercontent.com/77986680/112585597-1d54bb80-8dc8-11eb-9b06-f03fcd814fb1.jpeg)
 Para las dos particulas se da el caso de que quede la primera particula abajo y la segunda arriba o viceversa lo que se representa como 
 ![WhatsApp Image 2021-03-26 at 12 06 06 AM](https://user-images.githubusercontent.com/77986680/112585632-31002200-8dc8-11eb-8bc1-19f0850ac4f8.jpeg)
-Al hacer el producto tensor entre los subsistemas nos dará de la siguiente forma contando con la rpbabilidad de que quede arriba o abajo 
+Al hacer el producto tensor entre los subsistemas nos dará de la siguiente forma contando con la probabilidad de que quede arriba o abajo 
 ![WhatsApp Image 2021-03-26 at 12 06 44 AM](https://user-images.githubusercontent.com/77986680/112585647-365d6c80-8dc8-11eb-8683-6dced0d7cb8b.jpeg)
 Al generalizarla para n particulas 
 ![WhatsApp Image 2021-03-26 at 12 09 07 AM](https://user-images.githubusercontent.com/77986680/112585653-39585d00-8dc8-11eb-9948-1ad9c6ea345b.jpeg)
